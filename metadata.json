@@ -1,0 +1,17 @@
+{
+  "name": "djl-ensurepackages",
+  "version": "1.0.0",
+  "author": "djl",
+  "summary": "Install or remove a list of packages",
+  "license": "Apache 2.0",
+  "source": "https://github.com/djl/puppet-ensurepackages.git",
+  "project_page": "https://github.com/djl/puppet-ensurepackages",
+  "issues_url": "https://github.com/djl/puppet-ensurepackages/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 3.2.0"
+    }
+  ]
+}
+
