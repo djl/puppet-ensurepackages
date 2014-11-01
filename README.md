@@ -1,10 +1,10 @@
-# ensurepackage
+# ensurepackages
 
 Install or remove a list of packages.
 
 ## Usage
 
-    class { 'ensurepackage':
+    class { 'ensurepackages':
         present => ["emacs", "vim"],
         absent => ["nano"],
     }
