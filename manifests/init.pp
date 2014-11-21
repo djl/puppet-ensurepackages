@@ -1,6 +1,6 @@
 # == Class: ensurepackages
 #
-# Full description of class ensurepackages here.
+# Install or remove a list of packages
 #
 # === Parameters
 #
