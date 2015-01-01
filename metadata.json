@@ -1,6 +1,6 @@
 {
   "name": "djl-ensurepackages",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "djl",
   "summary": "Install or remove a list of packages",
   "license": "Apache 2.0",
