@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "djl",
   "summary": "Install or remove a list of packages",
-  "license": "Apache 2.0",
+  "license": "ISC",
   "source": "https://github.com/djl/puppet-ensurepackages.git",
   "project_page": "https://github.com/djl/puppet-ensurepackages",
   "issues_url": "https://github.com/djl/puppet-ensurepackages/issues",
