@@ -21,14 +21,9 @@ class ensurepackages(
   $present = [],
   $absent = [],
 ) {
-    validate_array($present)
-    validate_array($absent)
+  validate_array($present)
+  validate_array($absent)
 
-    package { $present:
-      ensure => present
-    }
-
-    package { $absent:
-      ensure => absent
-    }
+  ensure_packages($present)
+  ensure_resource('package', $absent, { 'ensure' => 'absent' })
 }
