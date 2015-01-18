@@ -1,6 +1,6 @@
 {
   "name": "djl-ensurepackages",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "djl",
   "summary": "Install or remove a list of packages",
   "license": "ISC",
